@@ -7,7 +7,7 @@ async function bootstrap() {
 
   // Enable CORS with specific configurations
   app.enableCors({
-    origin: '*', // Replace with your frontend's URL(s)
+    origin: 'https://easygen.vercel.app', // Replace with your frontend's URL(s)
     methods: 'GET,POST,PUT,DELETE',
     credentials: true, // Allow cookies and authorization headers
   });
