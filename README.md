@@ -1,7 +1,7 @@
 
-# **Backend Application for EasyGenerator**
+# **Backend Application for EasyGene-Api**
 
-This repository contains the backend code for the **EasyGenerator** platform. It is built using **NestJS** with a focus on modularity, scalability, and robust authentication.
+This repository contains the backend code for the **EasyGene** platform. It is built using **NestJS** with a focus on modularity, scalability, and robust authentication.
 
 ---
 
@@ -62,8 +62,8 @@ This repository contains the backend code for the **EasyGenerator** platform. It
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/harshitanand/easygenerator-backend.git
-cd easygenerator-backend
+git clone https://github.com/harshitanand/easygen-api.git
+cd easygen-api
 ```
 
 ### **3. Install Dependencies**
