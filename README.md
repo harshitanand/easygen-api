@@ -62,7 +62,7 @@ This repository contains the backend code for the **EasyGenerator** platform. It
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/easygenerator-backend.git
+git clone https://github.com/harshitanand/easygenerator-backend.git
 cd easygenerator-backend
 ```
 
@@ -233,16 +233,6 @@ services:
 
 ### **3. CORS Errors**
 - Make sure `enableCors` is configured in `main.ts`.
-
----
-
-## **Contributing**
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
 
 ---
 
